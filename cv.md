@@ -26,6 +26,14 @@ function addNum(a,b) {
     return a + b;
 }
 ```
+#### Education
+*********************
+RsSchool PreSchool 2022q3
+
+#### Projects
+*********************
+Plants: _[kambarbaev](https://rolling-scopes-school.github.io/kambarbaev-JSFEPRESCHOOL2022Q4/plants/ "https://rolling-scopes-school.github.io/kambarbaev-JSFEPRESCHOOL2022Q4/plants/")_
+Momentum: _[kambarbaev](https://rolling-scopes-school.github.io/kambarbaev-JSFEPRESCHOOL2022Q4/momentum/ "https://rolling-scopes-school.github.io/kambarbaev-JSFEPRESCHOOL2022Q4/momentum/")_
 
 #### English
 *********************
